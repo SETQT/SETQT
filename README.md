@@ -5,9 +5,9 @@ Programming and developing software for mobile and web applications.
 
 
 
+<br/> <br/>
 
-
-### 🚀 Languages and Tools:
+###  Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -25,13 +25,15 @@ Programming and developing software for mobile and web applications.
 </p>
 
 
-
-
 <br/> <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SE1852&show_icons=true&theme=onedark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SE1852)
 
-![Profile views](https://gpvc.arturio.dev/SE1852)  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SE1852&show_icons=true&theme=onedark)
+
+![Profile views](https://gpvc.arturio.dev/SE1852)
+  
