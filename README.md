@@ -29,11 +29,11 @@ Programming and developing software for mobile and web applications.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SE1852)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SETQT)
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SE1852&show_icons=true&theme=onedark)
 
-![Profile views](https://gpvc.arturio.dev/SE1852)
+![Profile views](https://gpvc.arturio.dev/SETQT)
   
