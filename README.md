@@ -33,7 +33,7 @@ Programming and developing software for mobile and web applications.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SE1852&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SETQT&show_icons=true&theme=onedark)
 
 ![Profile views](https://gpvc.arturio.dev/SETQT)
   
