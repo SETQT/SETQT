@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Golang+%7C+TypeScript+%7C+PostgreSQL;Building+scalable+APIs+%26+microservices;Clean+code+%2C+clean+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Golang+%7C+Java+%7C+PostgreSQL;Building+scalable+APIs+%26+microservices;Clean+code+%2C+clean+architecture" alt="Typing SVG" />
 </p>
 
 ---
